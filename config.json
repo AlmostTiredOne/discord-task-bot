@@ -1,0 +1,7 @@
+{
+  "clientId": "1405203194870628456",
+  "guildId": "1252283405270515804",
+  "taskChannelId": "1318242495829639261", 
+  "storageFile": "./data/tasks.json",
+  "reminders": { "overdueMinutes": 30, "repeatMinutes": 60 }
+}
