@@ -1,4 +1,4 @@
 .env
 node_modules/
 db
-data/tsak.json
+data/tasks.json
